@@ -1,0 +1,23 @@
+# Ignorar node_modules em todas as subpastas
+node_modules/
+
+# Ignorar arquivos do sistema operacional (por exemplo, macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar arquivos do editor de código
+.vscode/
+.idea/
+
+# Ignorar arquivos de configuração do npm
+package-lock.json
+
+# Ignorar arquivos de cache do npm
+npm-debug.log*
+
+# Ignorar arquivos de backup
+*.bak
+*.swp
