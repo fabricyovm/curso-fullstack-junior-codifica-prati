@@ -54,7 +54,7 @@ npm install
 Para acessar a pasta de um exercício, basta entrar no diretório correspondente. Por exemplo, para a `Lista_de_exercícios_01/exercicio05`:
 
 ```bash
-    cd Lista_de_exercícios_01/exercicio05
+cd lista_de_exercícios_01/exercicio05
 ```
 
 ### 4. Executar o código de um exercício
